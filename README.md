@@ -1,13 +1,4 @@
-[![Tests](https://github.com/scverse/anndata/actions/workflows/test-cpu.yml/badge.svg)](https://github.com/scverse/anndata/actions)
-[![Conda](https://img.shields.io/conda/vn/conda-forge/anndata.svg)](https://anaconda.org/conda-forge/anndata)
-[![Coverage](https://codecov.io/gh/scverse/anndata/branch/main/graph/badge.svg?token=IN1mJN1Wi8)](https://codecov.io/gh/scverse/anndata)
-[![Docs](https://readthedocs.com/projects/icb-anndata/badge/?version=latest)](https://anndata.readthedocs.io)
-[![PyPI](https://img.shields.io/pypi/v/anndata.svg)](https://pypi.org/project/anndata)
-[![Downloads](https://static.pepy.tech/badge/anndata/month)](https://pepy.tech/project/anndata)
-[![Downloads](https://static.pepy.tech/badge/anndata)](https://pepy.tech/project/anndata)
-[![Stars](https://img.shields.io/github/stars/scverse/anndata?style=flat&logo=github&color=yellow)](https://github.com/scverse/anndata/stargazers)
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
-
+# CHANGED README
 <img
   src="https://raw.githubusercontent.com/scverse/anndata/main/docs/_static/img/anndata_schema.svg"
   class="dark-light" align="right" width="350" alt="image"
